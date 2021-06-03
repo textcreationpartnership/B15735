@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The araignment of Iohn Selman, who was executed neere Charing-Crosse the 7. of Ianuary, 1611. for a fellony by him committed in the Kings Chappell at White-Hall vpon Christmas day last, in presence of the King and diuers of the nobility</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15735</idno><idno type="EEBO-CITATION">99842894</idno>
+  <idno type="VID">176799</idno>
+  <idno type="EEBO-PROQUEST">2240888524</idno>
+  <idno type="STC">STC 22182a.5</idno>
+  <idno type="STC">ESTC S107192</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842894e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176799)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 676:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The araignment of Iohn Selman, who was executed neere Charing-Crosse the 7. of Ianuary, 1611. for a fellony by him committed in the Kings Chappell at White-Hall vpon Christmas day last, in presence of the King and diuers of the nobility</title>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. H[all] for Thomas Archer, and are to be sold at his shop in Popes-head Pallace,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1611 [i.e. 1612]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Correct publication date from STC.</note>
+                  <note>Identified as STC 22183a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Selman, John, d. 1612 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176799:1"/>
+            <pb facs="tcp:176799:1"/>
+            <pb facs="tcp:176799:2"/>
+            <pb facs="tcp:176799:2"/>
+            <pb facs="tcp:176799:3"/>
+            <pb facs="tcp:176799:3"/>
+            <p>THE ARAIGNMENT of <hi>John Selman,</hi> who was executed neere Charing-Crosse the 7. of Ianuary, 1611. for a Fellony by him committed in the Kings Chappell <hi>at White-Hall vpon Christmas day last, in presence</hi> of the King and diuers of the Nobility.</p>
+            <figure>
+               <figDesc>depiction of a male figure or John Selman with a cloak and purse</figDesc>
+            </figure>
+            <p>LONDON, Printed by <hi>W. H.</hi> for <hi>Thomas Archer,</hi> and are to be sold at his shop in Popes-head Pallace, 1611.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:176799:4"/>
+            <pb facs="tcp:176799:4"/>
+            <head>A TRVE RELA<g ref="char:EOLhyphen"/>tion of the apprehending, <hi>ex<g ref="char:EOLhyphen"/>amining, committing, indi<g ref="char:EOLhyphen"/>ting,</hi> arraigning, and conuicting of <hi>Iohn Selman.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He miserable and mis<g ref="char:EOLhyphen"/>chieuous sinnes that men are howerly drawn into by the malitious meanes, subtle snares, inticements and allure<g ref="char:EOLhyphen"/>mentes of the Diuell: are so many and mon<g ref="char:EOLhyphen"/>strous, that were not our owne eies continuall witnesses of the effect which they doe dayly worke in many, it were not possible wee could or should beleeue that, which euery minute is throwne into our owne eares by the report of others.</p>
+            <p>As for example, would or could any one bee perswaded, that a man should be so au<g ref="char:EOLhyphen"/>dacious, or irreligious, as to venture or en<g ref="char:EOLhyphen"/>ter into the House of God, with a preiudi<g ref="char:EOLhyphen"/>cated and resolued mind, to do a deed that
+<pb n="2" facs="tcp:176799:5"/> any honest Christian would tremble and quake, but to thinke vpon, in regard of the time, place, and persons there present, which in briefe was this. On Wednes<g ref="char:EOLhyphen"/>day the 25. of December last past, being Christmas day, one <hi>Iohn Selman</hi> did pre<g ref="char:EOLhyphen"/>sume to come into the Chappell at White-Hall, with intent and purpose to do that which at last he effected, which was either to cut a purse, or picke a pocket: and ho<g ref="char:EOLhyphen"/>uering long about one <hi>Leonatd Barry</hi> ser<g ref="char:EOLhyphen"/>uant to the Right Honourable, the Lord <hi>Harrington,</hi> was espied and noted by one <hi>M. Duble-day,</hi> who for some reasons which hereafter you shal heare, did not cease with his eye to follow him, suspecting him to be such a one, as presently after by the fact, and his own confession he did approue him selfe to be: for <hi>Iohn Selman,</hi> after long hawking, and following of the foresaide <hi>Leonard Barry</hi> (which was still noted by the foresaid <hi>M. Dubbleday,</hi>) the said <hi>Iohn Sel<g ref="char:EOLhyphen"/>man</hi> after he had (as it seemed) purchased his prise, tooke his way forth of the Chap<g ref="char:EOLhyphen"/>pell, which <hi>M. Dubbleday</hi> perceiuing, he came directly to the foresaid <hi>Leonard Barry,</hi> and did aske him whether he wanted any thing out of his pockets or no: to which he answered, no surely sir I thinke I doe not. But <hi>M. Dubble-day</hi> wild him to be
+<pb n="3" facs="tcp:176799:5"/> sure, and thereupon <hi>Leonard Barry</hi> putting his hand into his pocket mist his purse, &amp; said to M. <hi>Dubleday,</hi> Sir, I haue lost my purse. Then said <hi>M. Dubleday,</hi> goe with me and follow that man, for surely he hath it, meaning the foresaid <hi>Iohn Selman:</hi> and thereupon <hi>M. Doubleday</hi> and <hi>Leonard Barry</hi> followed <hi>Iohn Selman</hi> forth of the Chappel, and hauing ouertaken him, <hi>M. Dubbleday</hi> stept before <hi>Selman,</hi> and caught him fast by both the Wrists, willing <hi>Leonard</hi> Barry to search his pockets, for there quoth <hi>M. Dubbleday</hi> shall you find your purse: <hi>Leo<g ref="char:EOLhyphen"/>nard Barry</hi> putting his hand into one of <hi>Selmans</hi> pockets, found nothing there but a knife in a sheath: but in the other pocket he found his purse, and opening of it, he found his money al there which he had put in in the morning. The purse was a dou<g ref="char:EOLhyphen"/>ble purse of Lether, into which <hi>Leonard Bar<g ref="char:EOLhyphen"/>ry</hi> had put in twenty shillings into the one part of the purse, and twenty shillings into the other.</p>
+            <p>The sodaine comming of <hi>M. Dubbleday</hi> vnto <hi>Leonard Barrie,</hi> together with his speech to him in the Chappell, as also their hasty following of <hi>Selman</hi> forth of the Chappell, caused the by-standers with ad<g ref="char:EOLhyphen"/>miration to looke after them, and one to enquire of another, what might bee the
+<pb n="4" facs="tcp:176799:6"/> cause of that sodaine tumult.</p>
+            <p>In briefe it came to his Maiesties eare, who being then in his royall person, ac<g ref="char:EOLhyphen"/>companied with our gratious Queene, the thrice noble Prince, the Duke of <hi>Yorke,</hi> and the Lady <hi>Elizabeth,</hi> with diuers of the Nobility, his sacred Maiestie being rea<g ref="char:EOLhyphen"/>dy to receiue the Sacrament, was some<g ref="char:EOLhyphen"/>what disturbed with the report hereof, and therupon his most excellent Maiesty gaue commandement that the malefactor should be detained and further examined.</p>
+            <p>The celebration of the holy Sacrament being performed, within short time after <hi>Selman</hi> was brought before the Right wor<g ref="char:EOLhyphen"/>shipfull Sir <hi>Robert Banistre</hi> Clerke of the Greene-cloth for his Maiesties House<g ref="char:EOLhyphen"/>hold, who examining the said <hi>Selman,</hi> he did confesse as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <pb n="5" facs="tcp:176799:6"/>
+                        <head>The Examination of Iohn <hi>Sel<g ref="char:EOLhyphen"/>man before the Right Worshipfull</hi> Sir ROBERT BANISTRE Clerke of the Greencloth for his Maiesties Hous<g ref="char:EOLhyphen"/>hold, taken the xxv. of Decem<g ref="char:EOLhyphen"/>ber. 1611.</head>
+                        <p>FIrst he sayth, that he dwelleth in <hi>Shoe</hi> Lane, and that hee hath no Trade which he betaketh himselfe vnto. Be<g ref="char:EOLhyphen"/>ing examined of the busines hee had at Court, he answereth, that he had not any that was good, and further confesseth that he did in his Maiesties Chappell the same day take out of the pocket of one <hi>Leonard Barry</hi> seruant to the L. <hi>Harington,</hi> a purse with money in it: but what summe hee knowes not, in regard as soone as he was possest of it he was apprehended, and the said purse taken from him.</p>
+                        <closer>
+                           <signed>Subscribed, Iohn Selman.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Iohn Selman</hi> hauing been thus examined by Sir <hi>Rober Banistre,</hi> he was by him com<g ref="char:EOLhyphen"/>mitted to the custody of certaine of the Knight Marshals men, with commande<g ref="char:EOLhyphen"/>ment to conuay him presently to the prison of the Marshalsey.</p>
+            <pb n="6" facs="tcp:176799:7"/>
+            <p>Now, gentle Readers, you must vnder<g ref="char:EOLhyphen"/>stand, that this <hi>Selman</hi> came into the Kings Chappell in very good and seemely appa<g ref="char:EOLhyphen"/>rell, like vnto a Gentleman, or Citizen: <hi>viz.</hi> a faire blacke Cloake laced, and either lined thorow or faced with veluet. The rest of his apparel in reasonable maner be<g ref="char:EOLhyphen"/>ing answerable thereunto. Which was the cause that he without resistance had free entrance into that holy and sanctified place.</p>
+            <p>But he had not beene long in the Mar<g ref="char:EOLhyphen"/>shall see, ere that his gallant apparell was fetcht from him, and meaner brought vnto him, in which he came to his araignement.</p>
+            <p>On Twesday being the last of Decem<g ref="char:EOLhyphen"/>ber 1611. master <hi>Richardson</hi> (Marshall of the marshall sey) hauing receiued a write or warrant to that effect, did bring vp his prisoner, the foresaid <hi>Iohn Selman,</hi> to West<g ref="char:EOLhyphen"/>minster to the Kings bench barre, there to receiue his trial before certaine of his Ma<g ref="char:EOLhyphen"/>iesties Commissioners, whose names are as followeth.</p>
+            <list>
+               <head>The names of his Maiesties Commis<g ref="char:EOLhyphen"/>sioners there assembled.</head>
+               <item>William Lord Knollis.</item>
+               <item>Sir Thomas Vauasor.</item>
+               <pb n="7" facs="tcp:176799:7"/>
+               <item>Sir Francis Backon.</item>
+               <item>Sir Arthur Gorge.</item>
+               <item>Sir Robert Banistre.</item>
+            </list>
+            <p>and others of the Greene Cloth.</p>
+            <list>
+               <item>Sir Edmond Bowier.</item>
+               <item>Sir Robert Leighe.</item>
+               <item>
+                  <hi>and</hi> M<seg rend="sup">r</seg>. Phillip Gerrard.</item>
+            </list>
+            <p>The Court being set, Proclamation was made, and euery man charged to keep silence, while the Kings Commission was reading on paine of imprisonment.</p>
+            <p>The commission being read, the grand inquest was called, who did appeare all being his Maiesties seruants, whose names are as followeth.</p>
+            <list>
+               <head>The names of the grand inquest.</head>
+               <item>William Lancaster, Esquire.</item>
+               <item>Edward Blackgraue, Esquire.</item>
+               <item>Iohn Bull, Gentleman.</item>
+               <item>Edward Becke, Yeoman.</item>
+               <item>William Yates, Yeo.</item>
+               <item>Richard Langley, Yeo.</item>
+               <item>Robert Powlston, Yeo.</item>
+               <item>Thomas Gawen, Yeo.</item>
+               <item>Anthony Bartlet, Yeo.</item>
+               <item>Richard Gregory, Yeo.</item>
+               <item>George Cordall. Yeo.</item>
+               <pb n="8" facs="tcp:176799:8"/>
+               <item>Roger Terry. Yeo.</item>
+               <item>William Carter. Yeo.</item>
+               <item>Edward Kiffin. Yeo.</item>
+               <item>Iohn Browne, Yeo.</item>
+               <item>Iohn Whitlocke. Yeo.</item>
+               <item>Iohn Wonnam, Yeo.</item>
+               <item>Richard Dyar, Yeo.</item>
+            </list>
+            <p>These Gentlemen and Yeomen being called and sworne, Proclamation was made again, &amp; euery man charged to keepe silence while the charge was giuen to the great Inquest, on paine of imprisonment.</p>
+            <p>The charge being giuen to the Grand Inquest by <hi>Sir Francis Bacon,</hi> the Kings Solister.</p>
+            <p>The Bill of Inditement was preferred vnto them, for the approbation whereof, The foresaid <hi>Leonard Barrie</hi> and <hi>Edmond Dubleday</hi> were called and sworne to giue their true testimony for satisfying of the Iury, and to that purpose, <hi>Leonard</hi> was first called and charged by vertue of his oath to deliuer the truth, the whole truth, and nothing but the truth, concerning the matter in question between the Kings Maiestie and <hi>Iohn Selman</hi> the prisoner in<g ref="char:EOLhyphen"/>dited, his testimony was as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <pb n="9" facs="tcp:176799:8"/>
+                        <head>The euidence of <hi>Leonard Bar<g ref="char:EOLhyphen"/>ry giuen to the Great</hi> Inquest.</head>
+                        <p>FIrst he said, that on Christmas day in the morning, being the xxv. of De<g ref="char:EOLhyphen"/>cember 1611. he came into the Kinges Chappell at White-hall, with intent to heare the diuine seruice and sermon, to see his Maiesties Royall Person, and the cele<g ref="char:EOLhyphen"/>bration of the most holy &amp; blessed Sacra<g ref="char:EOLhyphen"/>ment, and being there in the Chappell, the foresaid <hi>M. Dubleday</hi> came vnto him, and did aske him whether hee had lost any thing out of his pockets or no: to which he answered, not any thing surely sir as I thinke. But <hi>M. Dubleday</hi> willed me quic<g ref="char:EOLhyphen"/>ly to search, and to be sure, and thereupon I thrust my hands into my pockets, and mist my purse: which <hi>M. Dubleday</hi> percei<g ref="char:EOLhyphen"/>uing, willed me to go with him, and follow that man, pointing to <hi>Selman,</hi> which wee did, and ouertaking him, searcht him, and with him did find my purse, and all my money, and this is all said hee, that I can say and thereupon <hi>M. Dubleday</hi> was called and charged, that by vertue of his Oath, he should likewise deliuer the truth and the
+<pb n="10" facs="tcp:176799:9"/> whole truth, and nothing but the truth, concerning the matter in question be<g ref="char:EOLhyphen"/>tweene the Kings Maiesty and <hi>Iohn Sel<g ref="char:EOLhyphen"/>man</hi> the prisoner indited.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <head>The euidence of <hi>Edmond Duble<g ref="char:EOLhyphen"/>day</hi> giuen to the great Inquest.</head>
+                        <p>FIrst he said that being in the Chapell one Christmasse day last, hee did espie there the foresaid <hi>Selman,</hi> whom hee did much suspect to bee a very loose and lewd fellow, and that made him very strickly, but couertly to watch him, not<g ref="char:EOLhyphen"/>withstanding his formality in apparrell. At last he did perceiue <hi>Selman</hi> to take his way out of the Chappell, after he had been long about the foresaid <hi>Leonard Barry,</hi> and thereupon hee came to the said <hi>Barry,</hi> and spake to him as aforesaid, and afterward with him did follow and apprehend the said <hi>Selman,</hi> and found about him the purse of the said <hi>Leonard Barry,</hi> and forty shillings in money therein: but <hi>M. Dubleday</hi> being demaunded by the Court, what reason hee had to suspect him more then any other man in the Chappell, to which hee answe<g ref="char:EOLhyphen"/>red as followeth.</p>
+                        <pb n="11" facs="tcp:176799:9"/>
+                        <p>That he hauing businesse in the Terme time at Westminster Hall in the Cheker Chamber, this <hi>Selman</hi> said he, that is now prisoner was very neere about me, and so neere, as I could, and did wish that he had beene further off, because I did assure my selfe that he had no good meaning to mee, keeping so neere me, and hauing no busi<g ref="char:EOLhyphen"/>nesse with me, and that was the cause that I did suspect him.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And therupon the great Inquest being ready to goe together, they were willed for their better satisfaction to stay and heare the examination and confession of the said <hi>Iohn Selman</hi> taken before Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Banistre</hi> Clerke of the greene Cloth, &amp;c. Which examination together with the prisoners owne confession was red vnto them as it is before set downe. All which when they had heard, they went not from the barre, but called for pen and inke, and to the inditement subscribed <hi>Billa Vera,</hi> which with a generall and free consent of them all was deliuered vp.</p>
+            <p>That being done, master <hi>Richardson</hi> Marshall of the Marshall sey was called and willed to bring in his prisoner, which hee did, and hee being placed at the Barre, was commanded by the name of <hi>Iohn Sel<g ref="char:EOLhyphen"/>man</hi>
+               <pb n="12" facs="tcp:176799:10"/> to hold vp his hand, which he did, then was the inditement read: which was this.</p>
+            <p>
+               <hi>Iohn Selman,</hi> hold vp thy hand, thou stan<g ref="char:EOLhyphen"/>dest heere indited by the name of <hi>Iohn Sel<g ref="char:EOLhyphen"/>man</hi> late of London yeoman, for that thou the twenty fifth day of December in the ninth yeere of the Raigne of our Soue<g ref="char:EOLhyphen"/>raigne Lord <hi>Iames</hi> by the grace of God King of <hi>England, France,</hi> and <hi>Ireland,</hi> De<g ref="char:EOLhyphen"/>fender of the faith, &amp;c. and of <hi>Scotland</hi> the fiue and fortie, at the house of our Soue<g ref="char:EOLhyphen"/>raigne Lord the King, called White Hall in the County of Midlesex within the verge, our Soueraigne Lord the King, being then in his Royall Maiesty, at White-hal aforesaid, with force and Arms did make an assault vpon one <hi>Leonard Bar<g ref="char:EOLhyphen"/>rie,</hi> and one purse of the value of one halfe<g ref="char:EOLhyphen"/>penny and forty shillings ready money in the same purse, then and there being of the goods and money of the foresaid <hi>Leonard Barrie,</hi> from the person of the said <hi>Leonard Barrie,</hi> priuily and without the knowledge of the said <hi>Leonard,</hi> then and there feloni<g ref="char:EOLhyphen"/>ously did take &amp; carry away contrary to the peace of our Soueraigne Lord the King, his Crowne, and Dignity.</p>
+            <p>What saiest thou <hi>Iohn Selman</hi> to this fel<g ref="char:EOLhyphen"/>lony, art thou guilty or not guilty, to which
+<pb n="13" facs="tcp:176799:10"/> hee answered guilty, then after some small respite or pause, hee was demaunded by M. <hi>Thomas Peter</hi> what hee could say for himselfe, why sentence of death according to the law shold not be pronounced against him: to which he answered not any thing but prostrating himselfe on his knees, sub<g ref="char:EOLhyphen"/>mitted himselfe to the Kings mercy, hum<g ref="char:EOLhyphen"/>bly praying, that after the law was execu<g ref="char:EOLhyphen"/>ted, his body might bee deliuered to his wife to haue Christian buriall, and that the goods which he had, (part of which was wel gotten, some otherwise) might not bee taken from her: to which the Right Wor<g ref="char:EOLhyphen"/>shipfull and worthy Gentleman, Sir <hi>F. B.</hi> answered: Here is an Honourable. Lord, and an ancient Counsellor, that vpon your true Repentance, and reuealing of those of your faculty and fraternity, who are still as ready to enter into the presence Chamber of the King, as you were to enter into the Kings Chappell, which is the house of God, wherein hee hath promised alwaies to bee present, and therefore it may well be called the <hi>Sanctum Sanctorum.</hi> And there<g ref="char:EOLhyphen"/>fore said Sir <hi>F.</hi> if you doe this, vpon his Honours report to the Kinges Maiesty, questionles your request will be granted.</p>
+            <p>Then <hi>Selman</hi> speaking to the Commis<g ref="char:EOLhyphen"/>sioners, nominated one (who as he saide,
+<pb n="14" facs="tcp:176799:11"/> was then in the Hall, which could (if hee would) do good seruice to the King, by re<g ref="char:EOLhyphen"/>uealing many of that profession, his name as I haue heard is <hi>I. H.</hi>
+            </p>
+            <p>This being done, Sir <hi>Francis Bacon,</hi> to whom at that time it did belong, proceeded to iudgement, and looking on the prisoner, thus or to this effect, in some sort he spake.</p>
+            <p>The first and greatest sinne that euer was committed was done in Heauen. The second was done in Paradise, being hea<g ref="char:EOLhyphen"/>uen vpon earth, and truly I cannot chuse but place this in the third ranke, in regard it was done in the house of God, where he by his owne promise is alwaies resident, as also for that the cause of that assembly was to celebrate the Feast of the birth of our Lord and Sauiour Christ Iesus. And Gods Lieutenant here on earth, being in Gods house there present, ready to receiue the holy and blessed Sacrament, all which being considered, the time, place, and per<g ref="char:EOLhyphen"/>sons there present, doth make the fault greater; and therefore I doe aduise thee that as thou hast submitted thy selfe to the Kings mercy, so thou wilt craue pardon at Gods hands, who is more rea<g ref="char:EOLhyphen"/>dy to giue, then we to craue, which if thou dost with a true feeling of thy sinne, and re<g ref="char:EOLhyphen"/>pentance, and loathing of thy sinne, thou
+<pb n="15" facs="tcp:176799:11"/> shalt surely bee forgiuen at Gods hands, and being fully perswaded thereof, I will now pronounce thy iudgement, which is:</p>
+            <p>Thou shalt bee had from hence to the place from whence thou cammest, and from thence bee brought to the place of Execution, which shall be betweene Charing Crosse and the Court gate, and there to bee hanged by the necke till thou be dead, and so the Lord haue mercy vpon thy soule.</p>
+         </div>
+         <div type="speech">
+            <pb n="16" facs="tcp:176799:12"/>
+            <head>The last speach of <hi>Selman</hi> at the place of Execution.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Am come (as you see) patiently to offer vp the sweet, and deare sacrifice of my life, a life, which I haue gracelessely abused, and by the vnruly course thereof, made my death a scandall to my kindred and aquaintance: I haue consumed fortunes gifts in rio<g ref="char:EOLhyphen"/>tous companies, wasted my good name in the purchase of goods vnlawfully gotten, and now ending my daies in too late re<g ref="char:EOLhyphen"/>pentance, I am placed in the rancke of re<g ref="char:EOLhyphen"/>probates, which the rusty canker of time must needs turne to obliuion. I stand here as shames example, ready to bee spewed out of the Common wealth. I confesse, I haue knowne too much, performed more, but consented to most: I haue bin the on<g ref="char:EOLhyphen"/>ly corruption of many ripe witted youth, and leader of them to confusion. Pardon me God, for that is now a burthen to my conscience, wash it away sweet Creator, that I may spotlesse enter into thy glori<g ref="char:EOLhyphen"/>ous kingdome. Whereupon being deman<g ref="char:EOLhyphen"/>ded, if he would discouer any of his frater<g ref="char:EOLhyphen"/>nity,
+<pb n="17" facs="tcp:176799:12"/> for the good of the Common wealth or not: Answered, that he had already left the names of diuers notorious malefac<g ref="char:EOLhyphen"/>tors in writing behind him, which hee thought sufficient. So hee requested the quietnes of conscience that his soule might depart without molestation. For (quoth he) I haue deserued death long before this time, and deseruedly now I suffer death. The offence I dye for, was high presump<g ref="char:EOLhyphen"/>tion, a fact done euen in the Kings Maie<g ref="char:EOLhyphen"/>sties presence, euen in the Church of God, in the time of diuine Seruice, and the cele<g ref="char:EOLhyphen"/>bration of the Sacred Communion, for which if forgiuenes may descend frō Gods tribunall Throne, with penitence of hart I desire it, all which being spoken, he pa<g ref="char:EOLhyphen"/>tiently left this world for another life.</p>
+            <p>But see the gracelesse and vnrepenting minds of such like kinde of liuers: for, one of his quality (a picke pocket, I meane) euen at his execution, grew master of a true mans purse, who being presently ta<g ref="char:EOLhyphen"/>ken, was imprisoned, and is like the next sessions to wander the long voiage after his grand Captaine, <hi>Mounsier Iohn Selman</hi> God if it bee his blessed will turne <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hearts, and make them all honest men.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:176799:13"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a male figure or John Selman with a cloak and purse</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:176799:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
